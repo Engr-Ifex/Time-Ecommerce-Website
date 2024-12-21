@@ -9,6 +9,9 @@ export default {
       backgroundImage: {
         'hero-pattern': "url(/src/Components/Images/BG.png)",
         'watch':"url(/src/Components/Images/watch.png)",
+        'pro-bg':"url(/src/Components/Images/probg.png)",
+        'footer-bg':"url(/src/Components/Images/footerbg.png)",
+        'details-bg':"url(/src/Components/Images/detailsbg.png)",
       },
       fontFamily: {
         body: ['Manrope', 'sans-serif']
